@@ -54,8 +54,6 @@ ECOMMERCE_DATA_PIPELINE/
     ├── s3_raw_data.png
     ├── s3_processed_data.png
     ├── s3_file_details.png
-    ├── etl_terminal_output.png
-    ├── vscode_project_structure.png
     └── analytics_dashboard.png
 ```
 
