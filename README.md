@@ -209,7 +209,7 @@ ecommerce-sales-pipeline-2026/
 
 ## 👩‍💻 Project By
 
-**[Your Name]**  
+Varnika Gulhane 
 MCA Final Year Project  
 AWS S3 + Python ETL + Analytics Dashboard
 
